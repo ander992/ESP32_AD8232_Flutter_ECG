@@ -1,16 +1,5 @@
-# esp32_flutter
+# ESP32_AD8232_Flutter_ECG
 
-A new Flutter project.
+ESP32+AD8232+Flutter ECG machine – a powerful combination of hardware and software designed to provide real-time, accurate electrocardiogram (ECG) readings with ease. This compact device, powered by ESP32 microcontroller, seamlessly integrates with a Flutter app, enabling users to monitor their heart's electrical activity anytime, anywhere. Can be used as a Holter monitor if connected to battery power.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Conceived during the spring semester of 2023 as part of a university project for the Biomedical Signals course.
