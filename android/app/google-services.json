@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "743897473423",
+    "firebase_url": "https://aes-projekat-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "aes-projekat",
+    "storage_bucket": "aes-projekat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743897473423:android:88edd696cfea933c06abfa",
+        "android_client_info": {
+          "package_name": "com.example.esp32_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt6tbttuF89pDt_ga59wtg0q_px5mtG_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
