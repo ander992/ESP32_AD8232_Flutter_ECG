@@ -7,18 +7,7 @@ import 'firebase_options.dart';
 
 import 'firebase_wifi.dart';
 
-/*
-#include <Arduino.h>
-#include <WiFi.h>
-#include <FirebaseESP32.h>
-#include <Wire.h>
 
-
-#define WIFI_SSID "5G proba"
-#define WIFI_PASSWORD "opetkrompir"
-#define FIREBASE_API_KEY "AIzaSyDn4DhfiPbKhlihaaVjxbKM-VJ-lhrmy0A"
-#define FIREBASE_HOST "https://aes-projekat-default-rtdb.europe-west1.firebasedatabase.app/"
-*/
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
